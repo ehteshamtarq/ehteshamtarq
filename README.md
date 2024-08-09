@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p>Welcome to my page! </br> I'm Ehtesham Tarique, Fullstack developer and Devops Engineer. I also have interest in Kernel and Low Level Programming </p>
+<h3>Things I code with</h3>
+
 <!--
 **ehteshamtarq/ehteshamtarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
